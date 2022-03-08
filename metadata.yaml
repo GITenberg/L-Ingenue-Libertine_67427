@@ -1,0 +1,39 @@
+_repo: L-Ingenue-Libertine_67427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Gauthier-Villars, Henry, Mme
+    - Colette, Sidonie Gabrielle
+    - Willy, Colette
+    - Colette, Sidonie-Gabrielle
+    - Jouvenel, Gabrielle Claudine Colette de
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Colette
+    - https://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67427'
+language: fr
+pgterms:marc904: https://archive.org/details/lingnueliberti00cole
+pgterms:marc905: 20220213023719colette
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: France :Le Livre Plastic,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- GITenberg
+title: L'Ingénue Libertine
+url: http://www.gutenberg.org/ebooks/67427
